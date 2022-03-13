@@ -3,6 +3,8 @@
 
 # JS Shell
 
+<p style="color: #ff0000; font-weight: bold">IMPORTANT! JS Shell is no longer being actively maintained and is replaced with the <a href="https://github.com/zenOSmosis/reshell">ReShell</a> project.</p>
+
 **Note: This is currently prototype, and experimental code; it is not recommended for usage at all right now!**
 
 
